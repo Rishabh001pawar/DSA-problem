@@ -11,7 +11,7 @@ package ARRAY;
 // Output: 7
 // Explanation: If we distribute chocolate packets {3, 2, 4, 9, 7}, we will get the minimum difference, that is 9 – 2 = 7. 
 
-import java.util.*;
+import java.util.Arrays;
 class array5 {
     static int findMinDiff(int []arr,int m){
         int n=arr.length;
@@ -29,5 +29,8 @@ class array5 {
         int arr[]={7, 3, 2, 4, 9, 12, 56};
         int m=3;
         System.out.println("Minimum difference is:"+findMinDiff(arr,m));
-    }
+    } 
 }
+
+// ---------------------------------------------------------------------------------------------------------
+
