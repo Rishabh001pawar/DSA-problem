@@ -26,7 +26,7 @@ class solution{
         }
         return max;
     }
-    public static void main(String[]args){
+        public static void main(String[]args){
         int a[]={3,5,4,1,9};
         int n=a.length;
         System.out.println("Minimum element is: "+setmini(a,n));
