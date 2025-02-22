@@ -1,5 +1,4 @@
 package ARRAY;
-
 class leetcode235 {
     public int[] productExceptSelf(int[] nums) {
         int n=nums.length;

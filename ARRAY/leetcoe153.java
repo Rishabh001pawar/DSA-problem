@@ -1,5 +1,4 @@
 package ARRAY;
-
 public class leetcoe153 {
     public int findMin(int[] nums) {
         int n=nums.length;

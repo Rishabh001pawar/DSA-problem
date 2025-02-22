@@ -1,5 +1,4 @@
 package ARRAY;
-
 // LEETCODE 574 Distribute Candies
 
 import java.util.Set;

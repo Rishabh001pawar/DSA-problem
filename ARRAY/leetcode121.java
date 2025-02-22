@@ -1,5 +1,4 @@
 package ARRAY;
-
 class leetcode121{
     public int maxProfit(int[] prices){
         int n=prices.length;

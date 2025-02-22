@@ -1,6 +1,5 @@
-package ARRAY;
 // 42. Trapping Rain Water
-
+package ARRAY;
 class leetcode42{
     public int trap(int[]arr){
         int n=arr.length;

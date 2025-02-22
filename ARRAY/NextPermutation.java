@@ -1,6 +1,5 @@
-package ARRAY;
-
 // 31. Next Permutation
+package ARRAY;
 public class NextPermutation {
     public void nextPermutation(int[] nums) {
         int n=nums.length;
